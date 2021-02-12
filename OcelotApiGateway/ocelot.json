@@ -9,7 +9,7 @@
           "Port": 44382
         }
       ],
-      "UpstreamPathTemplate": "/userservice",
+      "UpstreamPathTemplate": "/userservice1",
       "UpstreamHttpMethod": [ "GET", "POST", "PUT", "DELETE" ]
     }
   ]
